@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b44f6081-6378-4f0f-8014-93d2880db692" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/carbon-dating.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/carbon-dating.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/count-cats.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/count-cats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dream-team.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/dream-team.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extended-repeater.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/extended-repeater.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hanoi-tower.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hanoi-tower.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursive-depth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursive-depth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple-chain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple-chain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/transform-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/transform-array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vigenere-cipher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/vigenere-cipher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/what-season.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/what-season.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/recursive-depth.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/recursive-depth.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/simple-chain.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/simple-chain.test.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1hfwaYlHXAm0IiedQWzYme4e5W2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Node.js.test1.js">
+    <configuration name="recursive-depth.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/recursive-depth.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="test1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/test1.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/test.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="Recursive depth.functional requirements" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/recursive-depth.test.js</test-file>
+      <test-names>
+        <name value="Recursive depth" />
+        <name value="functional requirements" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Recursive depth.variable presence" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/recursive-depth.test.js</test-file>
+      <test-names>
+        <name value="Recursive depth" />
+        <name value="variable presence" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test1.js" />
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Mocha.Recursive depth.functional requirements" />
+        <item itemvalue="Mocha.Recursive depth.variable presence" />
+        <item itemvalue="Node.js.recursive-depth.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b44f6081-6378-4f0f-8014-93d2880db692" name="Default Changelist" comment="" />
+      <created>1600415518456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600415518456</updated>
+      <workItem from="1600415519502" duration="56477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="948" height="303" key="GridCell.Tab.0.bottom" timestamp="1600617896045">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1012" height="214" key="GridCell.Tab.0.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1600454006988" />
+    <state width="948" height="303" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1600617896045" />
+    <state width="948" height="173" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1600519714796" />
+    <state width="948" height="303" key="GridCell.Tab.0.center" timestamp="1600617896044">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1012" height="214" key="GridCell.Tab.0.center/0.0.2048.1280@0.0.2048.1280" timestamp="1600454006987" />
+    <state width="948" height="303" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1600617896044" />
+    <state width="948" height="173" key="GridCell.Tab.0.center/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1600519714795" />
+    <state width="948" height="303" key="GridCell.Tab.0.left" timestamp="1600617896043">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1012" height="214" key="GridCell.Tab.0.left/0.0.2048.1280@0.0.2048.1280" timestamp="1600454006986" />
+    <state width="948" height="303" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1600617896043" />
+    <state width="948" height="173" key="GridCell.Tab.0.left/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1600519714794" />
+    <state width="948" height="303" key="GridCell.Tab.0.right" timestamp="1600617896044">
+      <screen x="1792" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1012" height="214" key="GridCell.Tab.0.right/0.0.2048.1280@0.0.2048.1280" timestamp="1600454006987" />
+    <state width="948" height="303" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1600617896044" />
+    <state width="948" height="173" key="GridCell.Tab.0.right/1792.0.1920.1080/0.23.1792.1097@1792.0.1920.1080" timestamp="1600519714795" />
+    <state width="1012" height="454" key="GridCell.Tab.1.bottom" timestamp="1600446793322">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.1.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793322" />
+    <state width="1012" height="454" key="GridCell.Tab.1.center" timestamp="1600446793321">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.1.center/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793321" />
+    <state width="1012" height="454" key="GridCell.Tab.1.left" timestamp="1600446793321">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.1.left/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793321" />
+    <state width="1012" height="454" key="GridCell.Tab.1.right" timestamp="1600446793321">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.1.right/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793321" />
+    <state width="1012" height="454" key="GridCell.Tab.2.bottom" timestamp="1600446793323">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.2.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793323" />
+    <state width="1012" height="454" key="GridCell.Tab.2.center" timestamp="1600446793323">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.2.center/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793323" />
+    <state width="1012" height="454" key="GridCell.Tab.2.left" timestamp="1600446793322">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.2.left/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793322" />
+    <state width="1012" height="454" key="GridCell.Tab.2.right" timestamp="1600446793323">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.2.right/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793323" />
+    <state width="1012" height="454" key="GridCell.Tab.3.bottom" timestamp="1600446793325">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.3.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793325" />
+    <state width="1012" height="454" key="GridCell.Tab.3.center" timestamp="1600446793324">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.3.center/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793324" />
+    <state width="1012" height="454" key="GridCell.Tab.3.left" timestamp="1600446793324">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.3.left/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793324" />
+    <state width="1012" height="454" key="GridCell.Tab.3.right" timestamp="1600446793324">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1012" height="454" key="GridCell.Tab.3.right/0.0.2048.1280@0.0.2048.1280" timestamp="1600446793324" />
+  </component>
+</project>
